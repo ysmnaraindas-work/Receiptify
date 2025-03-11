@@ -62,8 +62,8 @@ This project is licensed under the **MIT License**.
 
 ## Contact & Portfolio
 If you have any questions or would like to connect, please reach out:
-- 📧 Email: [email@example.com](mailto:ysmnaraindas.work@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/yasminenaraindas-setiadi/)
+- 📧 Email: [ysmnaraindas.work@gmail.com](mailto:ysmnaraindas.work@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/yasminenaraindas-setiadi](https://linkedin.com/in/yasminenaraindas-setiadi/)
 
 ---
 ⭐ **Don't forget to give this repository a star if you find it useful!**
